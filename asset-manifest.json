@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/reactwebsiteportfolio/static/css/main.bc6bdf3a.chunk.css",
+    "main.js": "/reactwebsiteportfolio/static/js/main.fa67ad4f.chunk.js",
+    "main.js.map": "/reactwebsiteportfolio/static/js/main.fa67ad4f.chunk.js.map",
+    "runtime-main.js": "/reactwebsiteportfolio/static/js/runtime-main.14b63561.js",
+    "runtime-main.js.map": "/reactwebsiteportfolio/static/js/runtime-main.14b63561.js.map",
+    "static/js/2.8c421655.chunk.js": "/reactwebsiteportfolio/static/js/2.8c421655.chunk.js",
+    "static/js/2.8c421655.chunk.js.map": "/reactwebsiteportfolio/static/js/2.8c421655.chunk.js.map",
+    "index.html": "/reactwebsiteportfolio/index.html",
+    "precache-manifest.e0717965d617037753c13aa42d738b20.js": "/reactwebsiteportfolio/precache-manifest.e0717965d617037753c13aa42d738b20.js",
+    "service-worker.js": "/reactwebsiteportfolio/service-worker.js",
+    "static/css/main.bc6bdf3a.chunk.css.map": "/reactwebsiteportfolio/static/css/main.bc6bdf3a.chunk.css.map",
+    "static/js/2.8c421655.chunk.js.LICENSE.txt": "/reactwebsiteportfolio/static/js/2.8c421655.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactwebsiteportfolio/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/react-redux.jpg": "/reactwebsiteportfolio/static/media/react-redux.a8b012a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14b63561.js",
+    "static/js/2.8c421655.chunk.js",
+    "static/css/main.bc6bdf3a.chunk.css",
+    "static/js/main.fa67ad4f.chunk.js"
+  ]
+}
